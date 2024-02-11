@@ -1,0 +1,12 @@
+print('Core Python session is going on at IHUB')
+print()
+print("Core Python session is going at IHUB")
+print()
+print('''Core Python session is going at IHUB''')
+print()
+print("""Core Python session is going at IHUB""")
+Eid=1001
+print()
+print(Eid)
+print()
+print("End of an application")
